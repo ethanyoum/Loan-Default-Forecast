@@ -1,3 +1,12 @@
 library(dplyr)
 library(ggplot2)
-
+library(xgboost)
+library(glmnet)
+library(FNN)
+library(randomForest)
+library(caret)
+library(MASS)
+library(rpart)
+library(pROC)
+library(tidyr)
+library(scales)
